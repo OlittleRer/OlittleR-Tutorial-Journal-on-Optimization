@@ -16,7 +16,7 @@ To cite these articles:
   year={2022},
   volume={11}
   pages={1--280},
-  howpublished={https://github.com/OlittleRer}
+  howpublished={https://github.com/OlittleRer/OlittleR-Tutorial-Journal-on-Optimization}
 }
 ```
 
@@ -31,7 +31,6 @@ To cite these articles:
   pages={1--280},
   year={2022},
   volume={11},
-  howpublished={https://github.com/Olit
-  tleRer}
+  howpublished={https://github.com/OlittleRer/OlittleR-Tutorial-Journal-on-Optimization}
 }
 ```
