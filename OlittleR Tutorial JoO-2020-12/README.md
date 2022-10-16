@@ -1,7 +1,5 @@
 OlittleR Tutorial JoO-2020-12
 
-OlittleR Tutorial JoO-2020-11
-
 # To cite `OlittleR Tutorial Journal on Optimization`
 
 欢迎大家在论文中引用我们的《**OlittleR Tutorial Journal on Optimization**》，以下是中文和英文的推荐引用。
